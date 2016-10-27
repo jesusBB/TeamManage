@@ -20,6 +20,7 @@ A get http call to http://localhost:8080/TeamManage/api/list will give you the l
 
 A post http call with the content-type set to 'application/json' will give you the team requested by JSON
 url: http://localhost:8080/TeamManage/api/get
+
 JSON request:
 {
   "name":"Cadiz C.F."
