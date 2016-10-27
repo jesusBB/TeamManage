@@ -19,7 +19,7 @@ This project has been done using:
 A get http call to http://localhost:8080/TeamManage/api/list will give you the list of the teams.
 
 A post http call with the content-type set to 'application/json' will give you the team requested by JSON
-url: http://127.0.0.1:8080/TeamManage/api/get
+url: http://localhost:8080/TeamManage/api/get
 JSON request:
 {
   "name":"Cadiz C.F."
