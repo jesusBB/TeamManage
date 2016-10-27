@@ -24,3 +24,6 @@ JSON request:
 {
   "name":"Cadiz C.F."
 }
+
+#Notes
+This project has been deployed on Tomcat 9
